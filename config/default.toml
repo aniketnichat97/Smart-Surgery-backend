@@ -1,0 +1,10 @@
+[server]
+port = 0
+host = "localhost"
+
+[database]
+host="localhost"
+port= 3307
+user="root"
+password="root"
+database= 'hackaxxess'
